@@ -1,0 +1,13 @@
+{
+    "name": "mahmutbayri/aws-series-current",
+    "authors": [
+        {
+            "name": "Mahmut Bayri",
+            "email": "mahmutbayri@yahoo.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "bref/bref": "^0.5.24"
+    }
+}
